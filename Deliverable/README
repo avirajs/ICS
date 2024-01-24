@@ -1,0 +1,15 @@
+Data:
+test_data.csv is the provided data in csv form
+
+Preprocessing:
+preprocessing_analysis.ipynb is run to produce preprocessed.pkl data
+pkl are pickle binary files which are used to store the preprocessed data and trained model
+
+Training:
+baseline_training.py is ran to generate cnn_model_pred.pkl
+
+Prediction:
+anomaly_visuals.ipynb contain the final visuals of anomaly detection results
+
+Visualizing Statistical Results:
+result_statistics.ipynb contain visuals of the final distribution of results and timing data
