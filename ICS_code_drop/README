@@ -1,0 +1,2 @@
+parse_dataset.py Contains the parsing of the PCAP files from wireshark and motor data
+preprocess_dataset.py Then further preprocesses both the network data and motor data and saves the data off to be used by models
